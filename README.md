@@ -1,0 +1,2 @@
+# AutoConnCampusNetwork
+自动连接NUIST的校园网的python脚本，无需打开浏览器输入用户名和密码。
