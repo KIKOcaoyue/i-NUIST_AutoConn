@@ -1,5 +1,6 @@
 # AutoConnCampusNetwork
 自动连接NUIST的校园网的python脚本，无需打开浏览器输入用户名和密码。
+
 关键词：南京信息工程大学校园网、南信大校园网
 
 
